@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there, I am Dean 👋🏻👨🏻‍💻
+
+```js
+const iamdeanmartin = {
+  pronouns: "he" | "his",
+  code: [HTML, CSS, Python, Java],
+  challenge: "I am doing a slots game on python"
+}
+```
 
 <!--
 **iamdeanmartin/iamdeanmartin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
