@@ -1,5 +1,7 @@
 ## Hi there, I am Dean 👋🏻👨🏻‍💻
 
+![Dean Martin García](https://github.com/user-attachments/assets/009c9dc1-1a62-4f22-b47c-e37c42c01135)
+
 ```js
 const iamdeanmartin = {
   pronouns: "he" | "his",
