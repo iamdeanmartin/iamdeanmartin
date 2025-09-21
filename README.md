@@ -55,7 +55,7 @@
     <!-- Project TurismeCat -->
     <td align="center" width="100%">
       <a href="https://github.com/iamdeanmartin/TurismeCat">
-        <img src="./assets/turismecat.jpg" alt="TurismeCat" width="420">
+        <img src="./assets/turismecat-logo.png" alt="TurismeCat" width="420">
       </a>
       <br>
       <sub><b>TurismeCat</b></sub>
@@ -64,12 +64,10 @@
         <img alt="Code" 
              src="https://img.shields.io/badge/CODE-181717?style=for-the-badge&logo=github&logoColor=white">
       </a>
-      <p align="justify">
-        🌟 <b>TurismeCat</b> is a multilingual Java console application inspired by Uber.  
-        It helps users plan their trips with personalized recommendations for destinations, 
-        vehicle choices (with cost calculation), and random travel suggestions.  
-        The app supports <b>Catalan</b>, <b>Spanish</b>, and <b>English</b>, making it adaptable 
-        for different users.  
+      <p>
+        TurismeCat es una aplicación de consola multilingüe que ayuda a los usuarios a planificar sus viajes, 
+        ofreciendo recomendaciones de lugares históricos, zonas naturales y ocio en Barcelona. 
+        También sugiere vehículos con cálculo de costos y soporta Catalán, Español e Inglés.
       </p>
     </td>
   </tr>
