@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I am <a href="https://github.com/iamdeanmartin?tab=repositories"><s>Dean Martin</s></a>👋🏻</h1>
+
 <!-- Título y mini descripción propia para atraer al visitante -->
+
 21-year-old ***App Developer*** ***based in Barcelona***, Spain 🇪🇸
 
 <h2>About Me 🤔</h2>
@@ -48,7 +50,9 @@
 </p>
 
 <h2>How To Reach Me❓📩</h2>
+
 <!-- Ponemos opción para que me contacten si les interesa el perfil -->
+
 [![Gmail Badge](https://img.shields.io/badge/-dean.martin@gracia.lasalle.cat-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:dean.martin@gracia.lasalle.cat)
 [![LinkedIn Badge](https://img.shields.io/badge/-deanmartingarcia-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deanmartingarcia/)
 
