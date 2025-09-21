@@ -50,6 +50,4 @@
 
 ### ⚙️ GitHub Analytics  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamdeanmartin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Dean Martin's GitHub Stats" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=iamdeanmartin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Dean Martin's GitHub Stats" />
