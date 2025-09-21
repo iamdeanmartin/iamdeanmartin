@@ -24,7 +24,21 @@
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" height="28">
 </p>
 
+<u>*Backend Development* ⚙️</u>  
 
+<p>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white" height="28">
+</p>
+
+<u>*Resources* 📚</u>  
+
+<p>
+  <img src="https://img.shields.io/badge/-GitHub%20Projects-181717?style=flat&logo=github&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white" height="28">
+</p>
 
 <h2>How To Reach Me❓📩</h2>
 
