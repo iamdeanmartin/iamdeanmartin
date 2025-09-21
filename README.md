@@ -66,7 +66,7 @@
              src="https://img.shields.io/badge/CODE-181717?style=for-the-badge&logo=github&logoColor=white">
       </a>
       <p align="justify">
-        🌟 <b>TurismeCat</b> is a multilingual Java console application inspired by Uber.  
+        <b>TurismeCat</b> is a multilingual Java console application inspired by Uber.  
         It helps users plan their trips with personalized recommendations for destinations, 
         vehicle choices (with cost calculation), and random travel suggestions.  
         The app supports <b>Catalan</b>, <b>Spanish</b>, and <b>English</b>, making it adaptable 
