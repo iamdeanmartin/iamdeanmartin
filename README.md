@@ -2,7 +2,7 @@
 
 <h3>About Me 🤔</h3>
 
-- I'm currently **learning Kotlin, Php and Python**.
+- I'm currently **learning Kotlin, PHP and Python**.
 - Studying in **La Salle Gràcia** and **developing new projects**.
 - I'm **looking for a job** that inspires me and makes me grow.
 
