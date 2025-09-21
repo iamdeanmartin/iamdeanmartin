@@ -17,6 +17,15 @@
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" height="28">
 </p>
 
+<u>*Database Management* 🗄️</u>  
+
+<p>
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" height="28">
+</p>
+
+
+
 <h2>How To Reach Me❓📩</h2>
 
 [![Gmail Badge](https://img.shields.io/badge/-dean.martin@gracia.lasalle.cat-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:dean.martin@gracia.lasalle.cat)
