@@ -5,6 +5,7 @@
 - 🖥️ Currently **learning Kotlin, PHP and Python**.
 - 👨🏻‍💻 Studying in **La Salle Gràcia** and **developing new projects**.
 - 💼 I am **looking for a job** that inspires me and makes me grow.
+- 🤝 Skilled in **teamwork and communication**, applying **Scrum** and other agile methodologies.
 
 <h2>Lenguage Tools 🔧</h2>
 
