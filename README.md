@@ -3,11 +3,13 @@
 21-year-old ***App Developer*** ***based in Barcelona***, Spain 🇪🇸
 
 <h2>About Me 🤔</h2>
-<!-- Aquí se pone info interesante y descriptiva de intereses etc-->
+
 > 🖥️ Currently **learning Kotlin, PHP and Python**.  
 > 👨🏻‍💻 Studying **2nd year of DAM at La Salle Gràcia** and developing new projects.<br>
 > 💼 I am **looking for a job** that inspires me and makes me grow.  
 > 🤝 Skilled in **teamwork and communication**, applying **Scrum** and other agile methodologies.  
+
+<!-- Aquí se pone info interesante y descriptiva de intereses etc-->
 
 <h2>Lenguage Tools 🔧</h2>
 <!-- Se especifica los recursos de los que se dispone para la hora del trabajo -->
