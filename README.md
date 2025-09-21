@@ -94,10 +94,18 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=iamdeanmartin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Dean Martin's GitHub Stats" />
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=iamdeanmartin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+        alt="Dean Martin's GitHub Stats" 
+        width="400"
+      />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamdeanmartin&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamdeanmartin&layout=compact&theme=tokyonight&hide_border=true" 
+        alt="Most Used Languages" 
+        width="400"
+      />
     </td>
   </tr>
 </table>
