@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋🏻, I am Dean Martin</h1>
+<h1 align="center">Hi 👋🏻, I am 
+  <a href="https://github.com/iamdeanmartin?tab=repositories">
+    <span style="color:blue">~~Dean Martin~~</span>
+  </a>
+</h1>
 
 <h2>About Me 🤔</h2>
 
