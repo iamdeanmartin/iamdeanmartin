@@ -12,7 +12,9 @@
 <!-- Aquí se pone info interesante y descriptiva de intereses etc-->
 
 <h2>Lenguage Tools 🔧</h2>
+
 <!-- Se especifica los recursos de los que se dispone para la hora del trabajo -->
+
 <u>*Web Development* 🌐</u>
 
 <p>
@@ -51,7 +53,9 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-deanmartingarcia-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deanmartingarcia/)
 
 <h2>🚀 Featured Projects</h2>
+
 <!-- Ponemos el proyecto más interesante que hemos hecho hasta ahora(gracias a ArisGuimera por la inspiración y el ejemplo!!) -->
+
 <table>
   <tr>
     <!-- Project TurismeCat -->
@@ -79,5 +83,7 @@
 </table>
 
 <h2>⚙️ GitHub Analytics</h2>
+
 <!-- Este detalle para que cuando se suba de rango ya empiece a haber más cosas guays. -->
+
 <img src="https://github-readme-stats.vercel.app/api?username=iamdeanmartin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Dean Martin's GitHub Stats" />
