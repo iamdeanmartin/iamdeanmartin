@@ -1,16 +1,16 @@
 <h1 align="center">Hi, I am <a href="https://github.com/iamdeanmartin?tab=repositories"><s>Dean Martin</s></a>👋🏻</h1>
-
+<!-- Título y mini descripción propia para atraer al visitante -->
 21-year-old ***App Developer*** ***based in Barcelona***, Spain 🇪🇸
 
 <h2>About Me 🤔</h2>
-
+<!-- Aquí se pone info interesante y descriptiva de intereses etc-->
 > 🖥️ Currently **learning Kotlin, PHP and Python**.  
 > 👨🏻‍💻 Studying **2nd year of DAM at La Salle Gràcia** and developing new projects.<br>
 > 💼 I am **looking for a job** that inspires me and makes me grow.  
 > 🤝 Skilled in **teamwork and communication**, applying **Scrum** and other agile methodologies.  
 
 <h2>Lenguage Tools 🔧</h2>
-
+<!-- Se especifica los recursos de los que se dispone para la hora del trabajo -->
 <u>*Web Development* 🌐</u>
 
 <p>
@@ -44,12 +44,12 @@
 </p>
 
 <h2>How To Reach Me❓📩</h2>
-
+<!-- Ponemos opción para que me contacten si les interesa el perfil -->
 [![Gmail Badge](https://img.shields.io/badge/-dean.martin@gracia.lasalle.cat-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:dean.martin@gracia.lasalle.cat)
 [![LinkedIn Badge](https://img.shields.io/badge/-deanmartingarcia-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deanmartingarcia/)
 
 <h2>🚀 Featured Projects</h2>
-
+<!-- Ponemos el proyecto más interesante que hemos hecho hasta ahora(gracias a ArisGuimera por la inspiración y el ejemplo!!) -->
 <table>
   <tr>
     <!-- Project TurismeCat -->
@@ -77,5 +77,5 @@
 </table>
 
 <h2>⚙️ GitHub Analytics</h2>
-
+<!-- Este detalle para que cuando se suba de rango ya empiece a haber más cosas guays. -->
 <img src="https://github-readme-stats.vercel.app/api?username=iamdeanmartin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Dean Martin's GitHub Stats" />
