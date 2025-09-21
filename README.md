@@ -1,26 +1,9 @@
-## Hi there, I am Dean 👋🏻👨🏻‍💻
+<h1 align="center">Hi 👋🏻, I'm Dean Martin</h1>
+---
+<h3>About me 🤔</h3>
 
-![Dean Martin García](https://github.com/user-attachments/assets/009c9dc1-1a62-4f22-b47c-e37c42c01135)
+- I'm currently **learning Kotlin, Php and Python**.
+- Studying in **La Salle Gràcia** and **developing new projects**.
+- I'm **looking for a job** that inspires me and makes me grow.
 
-```js
-const iamdeanmartin = {
-  pronouns: "he" | "his",
-  code: [HTML, CSS, Python, Java],
-  challenge: "I am doing a slots game on python"
-}
-```
-
-<!--
-**iamdeanmartin/iamdeanmartin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>How to reach me:question:📩</h3>
