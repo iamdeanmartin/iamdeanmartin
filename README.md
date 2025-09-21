@@ -8,7 +8,7 @@
 
 <h2>Lenguage Tools 🔧</h2>
 
-<h3><i><u>Web Development 🌐</u></i></h3>
+<### <u>*Web Development 🌐*</u>>
 
 <p>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" height="28">
