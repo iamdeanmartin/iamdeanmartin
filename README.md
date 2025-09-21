@@ -97,14 +97,16 @@
       <img 
         src="https://github-readme-stats.vercel.app/api?username=iamdeanmartin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
         alt="Dean Martin's GitHub Stats" 
-        width="400"
+        width="400" 
+        height="200"
       />
     </td>
     <td>
       <img 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamdeanmartin&layout=compact&theme=tokyonight&hide_border=true" 
         alt="Most Used Languages" 
-        width="400"
+        width="400" 
+        height="200"
       />
     </td>
   </tr>
