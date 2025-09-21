@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋🏻, I am Dean Martin</h1>
 
-<h2>About Me</h2>
+<h2>About Me 🤔</h2>
 
 - 🖥️ Currently **learning Kotlin, PHP and Python**.
 - 👨🏻‍💻 Studying in **La Salle Gràcia** and **developing new projects**.
 - 💼 I am **looking for a job** that inspires me and makes me grow.
 
-<h2>Lenguage Tools🔧</h2>
+<h2>Lenguage Tools 🔧</h2>
 
-<h3><i><u>Web Development🌐</u></i></h3>
+<h3><i><u>Web Development 🌐</u></i></h3>
 
 <p>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" height="28">
