@@ -91,3 +91,4 @@
 <!-- Este detalle para que cuando se suba de rango ya empiece a haber más cosas guays. -->
 
 <img src="https://github-readme-stats.vercel.app/api?username=iamdeanmartin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Dean Martin's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamdeanmartin&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
