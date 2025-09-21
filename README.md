@@ -89,6 +89,15 @@
 <h2>⚙️ GitHub Analytics</h2>
 
 <!-- Este detalle para que cuando se suba de rango ya empiece a haber más cosas guays. -->
+<!-- Lo he tenido que meter en un div porque sino uno estaba debajo del otro -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=iamdeanmartin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Dean Martin's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamdeanmartin&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=iamdeanmartin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Dean Martin's GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamdeanmartin&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+    </td>
+  </tr>
+</table>
