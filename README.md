@@ -55,7 +55,8 @@
     <!-- Project TurismeCat -->
     <td align="center" width="100%">
       <a href="https://github.com/iamdeanmartin/TurismeCat">
-        <img src="./assets/image.png" alt="TurismeCat" width="420">
+        <img src="https://raw.githubusercontent.com/iamdeanmartin/TurismeCat/main/assets/image.png"
+             alt="TurismeCat" width="420">
       </a>
       <br>
       <sub><b>TurismeCat</b></sub>
