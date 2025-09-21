@@ -47,3 +47,26 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-dean.martin@gracia.lasalle.cat-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:dean.martin@gracia.lasalle.cat)
 [![LinkedIn Badge](https://img.shields.io/badge/-deanmartingarcia-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deanmartingarcia/)
+
+## ⚙️ GitHub Analytics
+
+<table>
+  <tr>
+    <td>
+      <!-- Stats: Stars, Commits, PRs, Issues, Contributed to + anillo de “rank” -->
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=iamdeanmartin&show_icons=true&include_all_commits=true&theme=tokyonight&rank_icon=percentile"
+        alt="GitHub stats"
+        height="190"
+      />
+    </td>
+    <td>
+      <!-- Lenguajes más usados (barra compacta) -->
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamdeanmartin&layout=compact&theme=tokyonight&langs_count=8"
+        alt="Top languages"
+        height="190"
+      />
+    </td>
+  </tr>
+</table>
