@@ -1,11 +1,13 @@
 <h1 align="center">Hi, I am <a href="https://github.com/iamdeanmartin?tab=repositories"><s>Dean Martin</s></a>👋🏻</h1>
 
+21-year-old ***App Developer*** ***based in Barcelona***, Spain 🇪🇸
+
 <h2>About Me 🤔</h2>
 
-- 🖥️ Currently **learning Kotlin, PHP and Python**.
-- 👨🏻‍💻 Studying in **La Salle Gràcia** and **developing new projects**.
-- 💼 I am **looking for a job** that inspires me and makes me grow.
-- 🤝 Skilled in **teamwork and communication**, applying **Scrum** and other agile methodologies.
+> 🖥️ Currently **learning Kotlin, PHP and Python**.  
+> 👨🏻‍💻 Studying in **La Salle Gràcia** and **developing new projects**.  
+> 💼 I am **looking for a job** that inspires me and makes me grow.  
+> 🤝 Skilled in **teamwork and communication**, applying **Scrum** and other agile methodologies.  
 
 <h2>Lenguage Tools 🔧</h2>
 
