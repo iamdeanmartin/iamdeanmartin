@@ -7,4 +7,4 @@
 - I'm **looking for a job** that inspires me and makes me grow.
 
 <h3>How To Reach Me❓📩</h3>
-(https://badgen.net/badge/ /dean.martin@gracia.lasalle.cat/EA4335?icon=gmail&label=)
+[![Gmail Badge](https://img.shields.io/badge/-dean.martin@gracia.lasalle.cat-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:dean.martin@gracia.lasalle.cat)
