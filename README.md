@@ -80,6 +80,6 @@ The app supports *Catalan*, *Spanish*, and *English*, making it adaptable for di
   />
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamdeanmartin&layout=compact&theme=tokyonight&hide_border=true" 
-    height="200"
+    height="400"
   />
 </div>
