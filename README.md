@@ -62,8 +62,7 @@
 
 *TurismeCat* is a multilingual Java console application inspired by Uber.  
 It helps users plan their trips with personalized recommendations for destinations, 
-vehicle choices (with cost calculation), and random travel suggestions.  
-The app supports *Catalan*, *Spanish*, and *English*, making it adaptable for different users.  
+vehicle choices (with cost calculation), and random travel suggestions. The app supports *Catalan*, *Spanish*, and *English*, making it adaptable for different users.  
 
 <div align="center">
 
@@ -80,6 +79,6 @@ The app supports *Catalan*, *Spanish*, and *English*, making it adaptable for di
   />
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamdeanmartin&layout=compact&theme=tokyonight&hide_border=true" 
-    height="400"
+    height="200"
   />
 </div>
