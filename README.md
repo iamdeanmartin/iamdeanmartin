@@ -53,8 +53,11 @@
 <!-- Ponemos el proyecto más interesante que hemos hecho hasta ahora(gracias a ArisGuimera por la inspiración y el ejemplo!!) -->
 
 <div align="center">
+  
 ### [TurismeCat](https://github.com/iamdeanmartin/TurismeCat)  
+
 ![TurismeCat](https://raw.githubusercontent.com/iamdeanmartin/TurismeCat/main/assets/image.png)
+
 </div>
 **TurismeCat** is a multilingual Java console application inspired by Uber.  
 It helps users plan their trips with personalized recommendations for destinations, 
