@@ -71,7 +71,7 @@ The app supports *Catalan*, *Spanish*, and *English*, making it adaptable for di
 
 </div>
 
-##⚙️ GitHub Analytics
+## ⚙️ GitHub Analytics
 
 ![Dean Martin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamdeanmartin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamdeanmartin&layout=compact&theme=tokyonight&hide_border=true)  
